@@ -1,4 +1,4 @@
-<p align="left" > <img  src="https://komarev.com/ghpvc/?username=ferhatclk&label=Profile%20views&color=0e75b6&style=flat" alt="ferhatclk" />   <img  src="https://img.shields.io/github/followers/ferhatclk?label=Follow&style=social" alt="ferhatclk" /></p>
+<p align="left" > <img  src="https://komarev.com/ghpvc/?username=ferhatclk&label=Profile%20views&color=0e75b6&style=flat" alt="ferhatclk" />   <img  src="https://img.shields.io/github/followers/ferhatclk?label=Followers&style=social" alt="ferhatclk" /></p>
 
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/ferhatclk/ferhatclk/blob/main/resources/img/waving.gif">, I'm Ferhat</h1>
