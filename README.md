@@ -6,11 +6,12 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/ferhatclk/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/ferhatclk/ferhatclk/blob/Main/resource/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-==========================================================================================
+
+###
+
 
 ### About Me
 * 🌍  I'm based in Ardahan
