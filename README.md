@@ -1,8 +1,8 @@
 <p align="left" > <img  src="https://komarev.com/ghpvc/?username=ferhatclk&label=Profile%20views&color=0e75b6&style=flat" alt="ferhatclk" />   <img  src="https://img.shields.io/github/followers/ferhatclk?label=Followers&style=social" alt="ferhatclk" /></p>
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/ferhatclk/ferhatclk/blob/main/resources/img/waving.gif">, I'm Ferhat</h1>
-<h4 align="center">a Backend Developer an also an engineering students at Kocaeli University</h4>
+<h1 align="center">Hi, I'm Ferhat</h1>
+<h4 align="center">A Backend Developer an also an engineering students at Kocaeli University</h4>
 </div>
 
 <div align="center">
@@ -11,7 +11,6 @@
 </div>
 
 ###
-
 
 ### About Me
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -23,7 +22,7 @@
 
 ### Skills
 
-<p align="left">
+<p align="center">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -40,13 +39,17 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ferhatclk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ferhatclk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@ferhatclk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.hackerrank.com/frhtclk" target="_blank"  rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="frhtclk" width="32" height="32"  /></a></p>
+<p align="center"> <a href="https://discord.com/users/ferhatclk#5051" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" /></a>  <a href="https://www.linkedin.com/in/ferhatclk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a> <a href="http://www.medium.com/@ferhatclk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="36" height="36" /></a><p>
+
+
+
 
 ### Badges
+<p align="center"> <a href="https://github.com/ferhatclk/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferhatclk&theme=onedark" alt="ferhatclk" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferhatclk" alt="ferhatclk" /></a> </p>
-
-<b>My GitHub Stats</b>
+<p align="center">
+<b >My GitHub Stats</b>
+</p>
 
 <p align="left">
   <a href="http://www.github.com/ferhatclk">
